@@ -4,7 +4,7 @@ It is a hobbyist website for a company called codeify modern development is lead
 
 #Tech stack: I used HTML and CSS.
 
-#Feautres:
+#feautres:
 
 It allows you to know alot about the company see their services and more 
 
