@@ -1,10 +1,10 @@
-#CMDweb
+# CMDweb
 
 It is a hobbyist website for a company called codeify modern development is leadered by one of my friends.
 
-#Tech stack: I used HTML and CSS.
+# Tech stack: I used HTML and CSS.
 
-#feautres:
+# Feautres:
 
 It allows you to know alot about the company see their services and more 
 
